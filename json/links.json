@@ -16,6 +16,12 @@
         "color": "black",
         "icon": "web",
         "url": "https://github.com/yeetedmeme"
-	}
+	},
+        {
+        "name": "Donate",
+        "color": "green",
+        "icon": "web",
+        "url": "https://www.buymeacoffee.com/yeeted"
+    }
 
 ]
