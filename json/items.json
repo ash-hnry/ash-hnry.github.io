@@ -14,10 +14,10 @@
 	},
 
     {
-        "name": "Discord Bot",
-        "description": "A Moderation Discord Bot",
-        "image": "images/yeetbot.png",
-        "link": "https://github.com/yeetedmeme/yeetbot"
+        "name": "GlaDOS AI",
+        "description": "A Discord AI Based On A WeChat Ad Bot API",
+        "image": "images/glados.png",
+        "link": "https://gladosai.tk"
 	},
     {
         "name": "Kahoot Bot",
